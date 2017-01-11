@@ -83,5 +83,6 @@
         'This is a test change 2
         'This is a test change 3
         'This is a test change 4
+        'This is a test change 5
     End Sub
 End Class
