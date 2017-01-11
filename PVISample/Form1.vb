@@ -79,10 +79,8 @@
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         gService = New BR.AN.PviServices.Service("service")
         gService.Connect("192.1.168.31", 55354)        ' Connect to extruder control with IP 172.31.57.124
-        'This is a test change
-        'This is a test change 2
-        'This is a test change 3
-        'This is a test change 4
-        'This is a test change 5
+
+        'Hello GitHub, this is a sample code changes on this project, this is for PoC :) --Added code for PoC
+
     End Sub
 End Class
