@@ -81,6 +81,7 @@
         gService.Connect("192.1.168.31", 55354)        ' Connect to extruder control with IP 172.31.57.124
         'This is a test change
         'This is a test change 2
-        'This is a test change 2
+        'This is a test change 3
+        'This is a test change 4
     End Sub
 End Class
